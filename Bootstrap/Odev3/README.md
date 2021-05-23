@@ -2,4 +2,4 @@
 
 ## Bootstrap Linkedin Clone
 
-[Refereans](https://github.com/Kodluyoruz/taskforce/tree/main/bootstrap/odev3)
+[Referans](https://github.com/Kodluyoruz/taskforce/tree/main/bootstrap/odev3)
