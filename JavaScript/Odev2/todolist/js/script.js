@@ -72,7 +72,7 @@ list.addEventListener('click',function(e){
         let p = e.target.parentElement.parentElement;
         let index = Array.prototype.indexOf.call(p.children, e.target.parentElement);
         taskArray.splice((index-5),1); 
-        // normalde taskArray.splice(i,1);
+        // normalde taskArray.splice(index,1);
         //fakat basinda 5 adet default task var
         localStorage.setItem('tasks',JSON.stringify(taskArray));
         e.target.parentNode.remove();
